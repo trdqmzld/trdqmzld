@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @trdqmzld
 - 👀 I'm interested in CTF competitions.
-- 🌱 I’m currently learning cybersecurity major.
+- 🌱 I’m currently learning cybersecurity.
